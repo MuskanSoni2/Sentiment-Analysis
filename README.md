@@ -11,11 +11,11 @@ An end-to-end project to classify Flipkart customer reviews as Positive or Negat
 4. The result (Positive or Negative) is displayed immediately.
 
 # Tools Used
--> Python, Pandas, NLTK, scikit-learn
+* Python, Pandas, NLTK, scikit-learn
 
--> Flask for backend API
+* Flask for backend API
 
--> Streamlit for the web app
+* Streamlit for the web app
 
 # Results
 * Achieved balanced accuracy using an equal Positive/Negative dataset.
